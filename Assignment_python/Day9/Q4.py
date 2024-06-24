@@ -31,3 +31,4 @@ plt.title('Percentage of Employees per Department')
 plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 plt.tight_layout()
 plt.show()
+print("Hello " + "3")
